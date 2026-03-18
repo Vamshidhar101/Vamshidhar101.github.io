@@ -18,14 +18,14 @@
 
 ---
 
-I build **production AI systems** — not just notebooks. 6+ years shipping ML, focused on the GenAI stack: RAG pipelines, multi-agent architectures, and the MLOps layer that keeps them running.
+I build **production AI systems**,   not just notebooks. 6+ years shipping ML, focused on the GenAI stack: RAG pipelines, multi-agent architectures, and the MLOps layer that keeps them running.
 
 ---
 
 ## Featured projects
 
 ### 1 · RAG Document Intelligence API
-> Upload any document. Ask questions. Get cited answers — in production.
+> Upload any document. Ask questions. Get cited answers - in production.
 
 | Metric | Score |
 |---|---|
