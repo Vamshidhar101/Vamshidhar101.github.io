@@ -102,4 +102,4 @@ Data               pandas · numpy · spark (PySpark)
 Senior ML / AI Engineer roles · Remote or Greensboro NC  
 Specializing in: production RAG systems · LLM agent architectures · MLOps pipelines
 
-📬 [YOUR_EMAIL] &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
+📬 [vamshidev101@gmail.com] &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
