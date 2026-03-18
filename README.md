@@ -1,5 +1,4 @@
-# VamshidharD.github.io
-Professional Portfolio
+
 <!-- GitHub Profile README — Vamshidhar Devalapally -->
 <!-- Instructions: Create a repo named exactly your GitHub username, add this file as README.md -->
 
